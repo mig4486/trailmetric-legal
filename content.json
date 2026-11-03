@@ -1,0 +1,255 @@
+[
+  {
+    "slug": "privacy",
+    "en": {
+      "title": "Privacy Policy",
+      "intro": "Effective 3 November 2026 · Tigran Gevorgyan, Armenia",
+      "sections": [
+        [
+          "Your activity stays on your device",
+          "TrailMetric records outdoor activities and calculates statistics locally. You do not need a TrailMetric account. We do not operate a server that receives your activity history. Map requests, exports you choose and messages you send to support are described below."
+        ],
+        [
+          "Data used by the app",
+          "Location is used to show your position and record distance, speed and a route. Motion, steps, activity recognition and barometer measurements support movement and elevation estimates. Standard Bluetooth sensors can provide heart rate, cadence, speed, distance and power, depending on the sensor and activity. Settings, workouts, lap markers and recorded measurements are stored locally. A separately started diagnostic test may record accelerometer and gyroscope data locally. Diagnostic files leave the device only if you export them."
+        ],
+        [
+          "Permissions and background recording",
+          "The app requests location, motion, Bluetooth or health access when the corresponding feature requires it. An activity you start can continue recording location when the screen is locked. TrailMetric does not request permanent “Always” location permission. With an existing location permission, opening an empty map can obtain a one-off position for centering without starting an activity. You can change permissions in system settings; doing so can limit recording."
+        ],
+        [
+          "Maps and external services",
+          "Maps load tiles from OpenStreetMap Foundation servers. Those servers receive your IP address, request time, app User-Agent and tile identifiers. Tile identifiers describe the viewed area, potentially precisely at high zoom. A map centered on your position or a saved route can therefore reveal your location or visited places. The app does not upload its complete recorded route or activity event log to the tile server. OSMF processes service requests and keeps logs under its <a href=\"https://osmfoundation.org/wiki/Privacy_Policy\">privacy policy</a>."
+        ],
+        [
+          "Health data",
+          "Where health export is available, you choose whether to copy a finished workout to Apple Health or, in Android test builds, Health Connect. Type and time are exported; distance, heart rate and route follow the switches you choose. Route export is off by default. Enabling it exports the recorded route, including its start and end; PNG privacy settings do not apply to health export. The app does not import other apps’ workouts or request permission to read them; on iOS it can check its own earlier exports to avoid duplicates. Health data is not sent to us or used for advertising. System permissions, sharing, backups and sync are controlled by you and Apple or Google."
+        ],
+        [
+          "Sharing and saving files",
+          "GPX, PNG and diagnostic exports are generated at your request. GPX can contain exact coordinates, timestamps and heart rate. A PNG map or contour can reveal a route, even without coordinates in text or metadata. Review export privacy settings before sharing. Copies are handled by the destination app or service you choose."
+        ],
+        [
+          "Retention, backups and deletion",
+          "Activities remain on your device until you delete them or remove the app. You can delete an activity, an unreadable or set-aside entry, or an unfinished recording in the app. This does not delete exported copies, backups or workouts already copied to a health store; manage those in their respective apps. Shared temporary PNG files are eligible for cleanup after seven days; the operating system can clear its cache sooner. A temporary source for “Save PNG” is removed after the system dialog finishes. Device backups and restores follow your device and cloud settings."
+        ],
+        [
+          "Support messages",
+          "If you email <a href=\"mailto:tgstartup@icloud.com\">tgstartup@icloud.com</a>, we receive your email address, message and any files you attach. We use them to answer your request and investigate reported problems. A route or diagnostic file is optional. We keep correspondence only as needed for support and applicable obligations; you can ask us to delete it. The email provider processes delivery and storage."
+        ],
+        [
+          "Advertising, analytics and this website",
+          "The current app has no advertising, tracking, purchases or third-party analytics SDK. We do not sell activity or health data. These pages have no analytics scripts, forms or embedded trackers. GitHub Pages hosts this website and can process visitor requests, including IP addresses, under the <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">GitHub Privacy Statement</a>. The app’s map service and your system services have their own policies."
+        ],
+        [
+          "Your choices and rights",
+          "You can review and delete local records, export your data and revoke permissions. For support correspondence or privacy requests, contact <a href=\"mailto:tgstartup@icloud.com\">tgstartup@icloud.com</a>. Depending on your jurisdiction, you may have rights to access, correct, delete or restrict processing of personal data and to complain to a competent authority. We cannot access or erase records that exist only on your device."
+        ],
+        [
+          "Children and updates",
+          "TrailMetric is not directed to children under 13 and does not knowingly collect their personal information. Contact us about any concern. Changes to this policy will be published here with an updated effective date; material changes to app data handling will also be described in the app’s release information."
+        ]
+      ]
+    },
+    "ru": {
+      "title": "Политика конфиденциальности",
+      "intro": "Действует с 3 ноября 2026 года · Tigran Gevorgyan, Армения",
+      "sections": [
+        [
+          "Запись на вашем устройстве",
+          "TrailMetric записывает активности и считает показатели локально. Аккаунт TrailMetric не требуется. У нас нет сервера, принимающего журнал ваших тренировок. Запросы карты, выбранные вами экспорты и обращения в поддержку описаны ниже."
+        ],
+        [
+          "Данные приложения",
+          "Геопозиция нужна для карты, маршрута, дистанции и скорости. Шаги, распознавание движения и барометр помогают оценивать движение и высоту. Стандартные Bluetooth-датчики могут передавать пульс, каденс, скорость, дистанцию и мощность — в зависимости от датчика и активности. Настройки, тренировки, круги и измерения хранятся локально. Отдельный диагностический тест по вашему запуску может записывать акселерометр и гироскоп. Диагностические файлы передаются с устройства только при выбранном вами экспорте."
+        ],
+        [
+          "Разрешения и фон",
+          "Разрешения на геопозицию, движение, Bluetooth и здоровье запрашиваются для соответствующих функций. Начатая вами активность может продолжать получать геопозицию при блокировке экрана. Постоянное разрешение «Всегда» не запрашивается. При уже выданном разрешении пустая карта может разово получить позицию для центрирования без запуска записи. Разрешения меняются в настройках системы; их отзыв может ограничить запись."
+        ],
+        [
+          "Карта и внешние сервисы",
+          "Тайлы карты загружаются с серверов OpenStreetMap Foundation. Серверы получают IP-адрес, время запроса, User-Agent приложения и номера тайлов. Номера описывают область просмотра, на большом масштабе — достаточно точно. Центрирование на позиции или сохранённом маршруте может раскрыть местоположение или посещённые места. Полный записанный маршрут и журнал событий на сервер тайлов не загружаются. Обработка запросов и журналирование описаны в <a href=\"https://osmfoundation.org/wiki/Privacy_Policy\">политике OSMF</a>."
+        ],
+        [
+          "Здоровье",
+          "В сборках с экспортом здоровья вы сами выбираете копирование завершённой тренировки в Apple Health или Health Connect в тестовых Android-сборках. Передаются тип и время; дистанция, пульс и маршрут зависят от выбранных переключателей. Маршрут по умолчанию выключен. Его включение передаёт записанный маршрут вместе с началом и концом; приватность PNG здесь не действует. Приложение не импортирует чужие тренировки и не запрашивает доступ к их чтению; на iOS может сверять собственные прошлые экспорты для защиты от дублей. Данные здоровья не отправляются нам и не используются в рекламе. Разрешения, обмен, копии и синхронизация зависят от вас и Apple или Google."
+        ],
+        [
+          "Экспорт",
+          "GPX, PNG и диагностические файлы создаются по вашей команде. GPX может содержать точные координаты, время и пульс. Карта или контур в PNG могут раскрывать маршрут даже без координат в тексте и метаданных. Проверьте настройки приватности перед отправкой. Копиями распоряжается выбранное вами приложение или сервис."
+        ],
+        [
+          "Хранение и удаление",
+          "Записи остаются на устройстве до удаления вами или удаления приложения. В приложении можно удалить активность, нечитаемую или отложенную запись и незавершённую тренировку. Это не удаляет экспорты, резервные копии и тренировки в системном хранилище здоровья — управляйте ими отдельно. Временные PNG для отправки могут очищаться после семи суток; ОС может очистить кэш раньше. Исходник «Сохранить PNG» удаляется после окончания системного диалога. Резервные копии и восстановление зависят от настроек устройства и облака."
+        ],
+        [
+          "Обращения в поддержку",
+          "При письме на <a href=\"mailto:tgstartup@icloud.com\">tgstartup@icloud.com</a> мы получаем ваш email, сообщение и вложения. Они используются для ответа и проверки проблемы. Маршрут и диагностический файл присылать необязательно. Переписка хранится, пока нужна для поддержки и исполнения применимых обязанностей; вы можете попросить её удалить. Почтовый провайдер обрабатывает доставку и хранение."
+        ],
+        [
+          "Реклама, аналитика и этот сайт",
+          "В текущем приложении нет рекламы, отслеживания, покупок и сторонних SDK аналитики. Мы не продаём данные активности и здоровья. На этих страницах нет аналитических скриптов, форм и встроенных трекеров. Сайт размещён на GitHub Pages; GitHub может обрабатывать запросы посетителей, включая IP-адрес, по своей <a href=\"https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement\">политике конфиденциальности</a>. Карта и системные сервисы имеют собственные правила."
+        ],
+        [
+          "Ваш выбор и права",
+          "Можно просматривать и удалять локальные записи, экспортировать данные и отзывать разрешения. По вопросам переписки и приватности пишите на <a href=\"mailto:tgstartup@icloud.com\">tgstartup@icloud.com</a>. В зависимости от страны у вас могут быть права на доступ, исправление, удаление, ограничение обработки персональных данных и обращение в компетентный орган. Мы не можем получить или удалить записи, существующие только на вашем устройстве."
+        ],
+        [
+          "Дети и изменения",
+          "TrailMetric не предназначен для детей младше 13 лет и не собирает их персональные данные сознательно. Сообщите нам о возможной проблеме. Изменения политики публикуются здесь с новой датой; существенные изменения обработки данных также описываются в информации об обновлении приложения."
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "terms",
+    "en": {
+      "title": "Terms of Use",
+      "intro": "Effective 3 November 2026 · Tigran Gevorgyan, Armenia",
+      "sections": [
+        [
+          "App Store licence",
+          "For the iOS application, the <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">Apple Standard End User License Agreement</a> applies. This page explains TrailMetric’s use and does not replace that agreement or limit rights that cannot be excluded under applicable law."
+        ],
+        [
+          "What TrailMetric does",
+          "TrailMetric records activities and displays estimates of distance, speed, steps, elevation and sensor measurements. Features depend on the app version, device, permissions and connected sensors. Some features may be preliminary in beta releases."
+        ],
+        [
+          "Accuracy and responsible use",
+          "GPS interference, weak reception, pressure changes, device movement and sensor errors can affect measurements. TrailMetric is not a medical device, emergency service or safety-critical navigation system. Do not rely on it alone for rescue, medical decisions or route safety. Stay aware of your surroundings and follow local rules; do not operate the app in a way that distracts from driving or other hazardous activity."
+        ],
+        [
+          "Your records and sharing",
+          "You control your locally stored activities. Export important records before removing the app or changing devices. Check shared images, GPX and health exports for sensitive locations and personal information; deleting a local activity does not withdraw copies already exported. Our <a href=\"privacy.html\">Privacy Policy</a> explains data processing."
+        ],
+        [
+          "Third-party services and sensors",
+          "Maps, system health stores, Bluetooth sensors and destination apps are provided by third parties. Their availability and terms can change. Standard Bluetooth support does not guarantee compatibility with every watch or proprietary device. Map availability is separate from activity recording."
+        ],
+        [
+          "Payments and future changes",
+          "The current version has no in-app subscriptions or paid purchases. If paid features are introduced, their price, billing period, renewal and cancellation terms will be disclosed before purchase through the applicable store. This page does not create a subscription."
+        ],
+        [
+          "Availability and your rights",
+          "We may update features and fix errors; uninterrupted operation or the preservation of unsaved data cannot be guaranteed. Beta builds can expire. Any limitations of warranty or liability are subject to the Apple Standard EULA and applicable law, including mandatory consumer rights."
+        ],
+        [
+          "Contact and updates",
+          "Questions about these terms: <a href=\"mailto:tgstartup@icloud.com\">tgstartup@icloud.com</a>. The provider is Tigran Gevorgyan, Armenia. Updates will be published here with an effective date; material changes will be communicated in app release information."
+        ]
+      ]
+    },
+    "ru": {
+      "title": "Условия использования",
+      "intro": "Действуют с 3 ноября 2026 года · Tigran Gevorgyan, Армения",
+      "sections": [
+        [
+          "Лицензия App Store",
+          "К iOS-приложению применяется <a href=\"https://www.apple.com/legal/internet-services/itunes/dev/stdeula/\">стандартное лицензионное соглашение Apple</a>. Эта страница поясняет использование TrailMetric, не заменяет соглашение и не ограничивает права, которые нельзя исключить по применимому закону."
+        ],
+        [
+          "Назначение",
+          "TrailMetric записывает активности и показывает оценки дистанции, скорости, шагов, высоты и измерений датчиков. Функции зависят от версии, устройства, разрешений и подключённых датчиков. Возможности бета-версий могут быть предварительными."
+        ],
+        [
+          "Точность и безопасность",
+          "Помехи GPS, слабый приём, изменение давления, движение телефона и ошибки датчиков могут влиять на показатели. TrailMetric не является медицинским прибором, экстренной службой или средством навигации, критичным для безопасности. Не полагайтесь только на приложение при спасении, медицинских решениях и выборе безопасного пути. Следите за обстановкой и соблюдайте местные правила; не отвлекайтесь на приложение за рулём и при других опасных действиях."
+        ],
+        [
+          "Ваши записи и отправка",
+          "Вы управляете локальными активностями. Экспортируйте важные записи перед удалением приложения или сменой устройства. Проверяйте картинки, GPX и экспорт здоровья на чувствительные места и персональные данные. Удаление локальной активности не отзывает переданные копии. Обработка данных описана в <a href=\"privacy.html\">политике конфиденциальности</a>."
+        ],
+        [
+          "Внешние сервисы и датчики",
+          "Карты, системные хранилища здоровья, Bluetooth-датчики и приложения для отправки предоставляются третьими сторонами. Их доступность и правила могут меняться. Поддержка стандартного Bluetooth не гарантирует работу любых часов и закрытых протоколов. Доступность карты не определяет возможность записи активности."
+        ],
+        [
+          "Оплата и будущие изменения",
+          "В текущей версии нет встроенных подписок и платных покупок. Если платные функции появятся, цена, период оплаты, продление и отмена будут раскрыты до покупки через соответствующий магазин. Эта страница не оформляет подписку."
+        ],
+        [
+          "Доступность и ваши права",
+          "Мы можем обновлять функции и исправлять ошибки. Бесперебойная работа и сохранность незаписанных данных не гарантируются. Бета-сборки могут иметь срок действия. Ограничения гарантий и ответственности определяются стандартным соглашением Apple и применимым законом, включая обязательные права потребителей."
+        ],
+        [
+          "Контакт и изменения",
+          "Вопросы об условиях: <a href=\"mailto:tgstartup@icloud.com\">tgstartup@icloud.com</a>. Поставщик — Tigran Gevorgyan, Армения. Обновления публикуются здесь с датой действия; существенные изменения сообщаются в информации об обновлении приложения."
+        ]
+      ]
+    }
+  },
+  {
+    "slug": "support",
+    "en": {
+      "title": "Support",
+      "intro": "Help with recording, maps, sensors and your data.",
+      "sections": [
+        [
+          "Contact",
+          "Email <a class=\"contact\" href=\"mailto:tgstartup@icloud.com?subject=TrailMetric%20support\">tgstartup@icloud.com</a>. Include your iPhone model, iOS version, TrailMetric version, activity type, approximate start time and what happened. Mention screen locking and Low Power Mode if relevant. Please do not send account passwords or unnecessary personal information. A route or diagnostic file is optional."
+        ],
+        [
+          "Recording in the background",
+          "Allow location while using the app and start recording before locking the screen. Do not swipe the app away while recording. If recording is interrupted, open TrailMetric and resume manually. Verify the saved result before relying on the figures."
+        ],
+        [
+          "Map is unavailable",
+          "Maps need an internet connection. Activity recording and local measurements can work without the basemap. Retry loading the map and check the connection. GPS reception is separate from tile loading; poor reception or interference can affect the recorded track."
+        ],
+        [
+          "Steps, speed or elevation look wrong",
+          "Movement of the phone, poor GPS or pressure changes can produce incomplete or inaccurate estimates. Note approximately when the issue happened and whether you were walking, on stairs, in a lift or stationary. Send these observations with the device and app version."
+        ],
+        [
+          "Connecting a sensor",
+          "Use a compatible standard Bluetooth Low Energy sensor, not a Wi-Fi device. A watch must explicitly broadcast a supported service, such as Heart Rate. Ordinary syncing with the watch vendor’s app does not provide that service. Direct Mi Band 8 support and workout import are not currently available."
+        ],
+        [
+          "Sharing and deleting data",
+          "Review export privacy settings before sending a route. Delete saved activities from their details or delete an unreadable entry directly in the journal. Deleting a local activity does not remove health-store entries, shared files or backups. Manage those separately. See the <a href=\"privacy.html\">Privacy Policy</a> for temporary-file retention."
+        ],
+        [
+          "More information",
+          "Read the <a href=\"terms.html\">Terms of Use</a> and <a href=\"privacy.html\">Privacy Policy</a>. TrailMetric is provided by Tigran Gevorgyan, Armenia. This support address is not an emergency service."
+        ]
+      ]
+    },
+    "ru": {
+      "title": "Поддержка",
+      "intro": "Запись, карты, датчики и ваши данные.",
+      "sections": [
+        [
+          "Связаться",
+          "Напишите на <a class=\"contact\" href=\"mailto:tgstartup@icloud.com?subject=TrailMetric%20support\">tgstartup@icloud.com</a>. Укажите модель iPhone, версии iOS и TrailMetric, вид активности, примерное время начала и что произошло. При необходимости сообщите о блокировке экрана и энергосбережении. Не отправляйте пароли и лишние персональные сведения. Прикладывать маршрут и диагностический файл необязательно."
+        ],
+        [
+          "Фоновая запись",
+          "Разрешите геопозицию «При использовании» и запустите запись до блокировки экрана. Не закрывайте приложение смахиванием во время записи. Если она прервалась, откройте TrailMetric и продолжите вручную. Проверьте сохранённый результат, прежде чем полагаться на показатели."
+        ],
+        [
+          "Карта недоступна",
+          "Для подложки нужен интернет. Запись активности и локальные измерения могут работать без карты. Проверьте соединение и повторите загрузку. GPS и загрузка карты — разные процессы: слабый приём или помехи могут влиять на записанный трек."
+        ],
+        [
+          "Ошибки шагов, скорости или высоты",
+          "Движение телефона, плохой GPS и изменения давления могут давать неточные или неполные оценки. Отметьте примерное время ошибки и что вы делали: шли, поднимались по лестнице, ехали в лифте или стояли. Отправьте наблюдения вместе с версией приложения и моделью телефона."
+        ],
+        [
+          "Подключение датчиков",
+          "Нужен совместимый стандартный Bluetooth Low Energy датчик, а не Wi-Fi. Часы должны явно транслировать поддерживаемую службу, например Heart Rate. Обычная синхронизация с приложением производителя её не заменяет. Прямое подключение Mi Band 8 и импорт тренировок сейчас недоступны."
+        ],
+        [
+          "Отправка и удаление",
+          "Проверьте приватность экспорта перед отправкой маршрута. Активности удаляются из подробностей, нечитаемые записи — прямо в журнале. Локальное удаление не убирает записи здоровья, переданные файлы и резервные копии: управляйте ими отдельно. Хранение временных файлов описано в <a href=\"privacy.html\">политике конфиденциальности</a>."
+        ],
+        [
+          "Документы",
+          "Ознакомьтесь с <a href=\"terms.html\">условиями использования</a> и <a href=\"privacy.html\">политикой конфиденциальности</a>. Поставщик TrailMetric — Tigran Gevorgyan, Армения. Поддержка не является экстренной службой."
+        ]
+      ]
+    }
+  }
+]
