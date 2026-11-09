@@ -170,7 +170,7 @@
     "slug": "terms",
     "en": {
       "title": "Terms of Use",
-      "intro": "Effective 3 November 2026 · Tigran Gevorgyan, Armenia",
+      "intro": "Updated 9 November 2026 · Tigran Gevorgyan, Armenia",
       "sections": [
         [
           "App Store licence",
@@ -193,8 +193,8 @@
           "Maps, system health stores, Bluetooth sensors and destination apps are provided by third parties. Their availability and terms can change. Standard Bluetooth support does not guarantee compatibility with every watch or proprietary device. Map availability is separate from activity recording."
         ],
         [
-          "Payments and future changes",
-          "The current version has no in-app subscriptions or paid purchases. If paid features are introduced, their price, billing period, renewal and cancellation terms will be disclosed before purchase through the applicable store. This page does not create a subscription."
+          "Plus subscriptions and payments",
+          "The published App Store version 1.0 (build 12) has no in-app purchases. The upcoming update offers optional monthly and annual TrailMetric Plus subscriptions. Both remove advertising while the subscription is active; there is no separate lifetime or one-time ad-removal purchase. Recording, saving and access to your existing local history remain available without Plus.<br><br>The US prices are US$2.99 per month and US$19.99 per year. Local prices and billing periods are displayed in the app and the Apple purchase confirmation before purchase. Subscriptions renew automatically until canceled through Apple. Manage or cancel in your Apple Account subscription settings; deleting the app does not cancel a subscription. Apple handles billing and refund requests. <a href=\"https://support.apple.com/118428\">How to cancel an Apple subscription</a>.<br><br>Use Restore in the Plus screen to request restoration through the App Store with the relevant Apple Account. Access depends on the subscription status verified by StoreKit. This page does not purchase or activate a subscription. Apple’s standard licence and applicable consumer rights continue to apply."
         ],
         [
           "Availability and your rights",
@@ -208,7 +208,7 @@
     },
     "ru": {
       "title": "Условия использования",
-      "intro": "Действуют с 3 ноября 2026 года · Tigran Gevorgyan, Армения",
+      "intro": "Обновлено 9 ноября 2026 года · Tigran Gevorgyan, Армения",
       "sections": [
         [
           "Лицензия App Store",
@@ -231,8 +231,8 @@
           "Карты, системные хранилища здоровья, Bluetooth-датчики и приложения для отправки предоставляются третьими сторонами. Их доступность и правила могут меняться. Поддержка стандартного Bluetooth не гарантирует работу любых часов и закрытых протоколов. Доступность карты не определяет возможность записи активности."
         ],
         [
-          "Оплата и будущие изменения",
-          "В текущей версии нет встроенных подписок и платных покупок. Если платные функции появятся, цена, период оплаты, продление и отмена будут раскрыты до покупки через соответствующий магазин. Эта страница не оформляет подписку."
+          "Подписки Plus и оплата",
+          "В опубликованной версии App Store 1.0 (сборка 12) встроенных покупок нет. В следующем обновлении доступны необязательные месячная и годовая подписки TrailMetric Plus. Обе отключают рекламу на время действующего доступа; отдельной пожизненной или разовой покупки отключения рекламы нет. Запись, сохранение и доступ к собственной существующей локальной истории доступны без Plus.<br><br>Цены для США — 2,99 доллара в месяц и 19,99 доллара в год. Местная цена и период оплаты показаны в приложении и системном подтверждении Apple до покупки. Подписка продлевается автоматически до отмены через Apple. Управление и отмена доступны в подписках Аккаунта Apple; удаление приложения не отменяет подписку. Оплату и запросы возврата обрабатывает Apple. <a href=\"https://support.apple.com/118428\">Как отменить подписку Apple</a>.<br><br>Для восстановления выберите «Восстановить» на экране Plus и используйте соответствующий Аккаунт Apple. Доступ определяется состоянием подписки, проверенным StoreKit. Эта страница не оформляет и не активирует подписку. Стандартная лицензия Apple и применимые права потребителей продолжают действовать."
         ],
         [
           "Доступность и ваши права",
